@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+pdf2image
+pytesseract
+spacy
+azure-identity
+azure-storage-blob
+python-dotenv
+streamlit
+scikit-learn
